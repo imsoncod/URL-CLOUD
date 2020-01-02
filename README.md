@@ -64,23 +64,23 @@
 ## Server
 * #### Apache Tomcat 9.0
 ## Functions
-* #### Web
-  * Secure Sign in, Sign up
-  * Email verification when signing up
-  * Save URL by Category
-  * Set favorite and private URL
-  * URL board pagenation
-  * Kategorie and URL regist, update, delete
-  * Automatic sorting by URL registration date
-  * Only view favorite URLs separately
-  * Search by dividing by description and URL
-  * Search all URLs registered on the server. However, private URLs are excluded from search
-  * Ranking URLs registered by users can be checked from 1 to 15
-  * Make money by placing ads on the right side of the site
-* #### Security
-  * Hybrid security login
-  * RSA and Hash Sign Up
-  * Save important codes and account information separately to Naver N drive
+### Web
+  * #### Secure Sign in, Sign up
+  * #### Email verification when signing up
+  * #### Save URL by Category
+  * #### Set favorite and private URL
+  * #### URL board pagenation
+  * #### Kategorie and URL regist, update, delete
+  * #### Automatic sorting by URL registration date
+  * #### Only view favorite URLs separately
+  * #### Search by dividing by description and URL
+  * #### Search all URLs registered on the server. However, private URLs are excluded from search
+  * #### Ranking URLs registered by users can be checked from 1 to 15
+  * #### Make money by placing ads on the right side of the site
+### Security
+  * #### Hybrid security login
+  * #### RSA and Hash Sign Up
+  * #### Save important codes and account information separately to Naver N drive
 ## Development screen
 * #### New Account screen     
      ![image](https://user-images.githubusercontent.com/48934537/71659988-eb9fa100-2d8c-11ea-83a8-c7a00ddedc48.png)
