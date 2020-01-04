@@ -95,6 +95,6 @@
 * #### URL Ranking screen
      ![image](https://user-images.githubusercontent.com/48934537/71660243-be072780-2d8d-11ea-9303-ccb7d79ff4db.png)
 * #### New Account Security Configuration
-     ![image](https://user-images.githubusercontent.com/48934537/71660682-31f5ff80-2d8f-11ea-9fc9-5445c25f785d.png)
+     ![image](https://user-images.githubusercontent.com/48934537/71766902-a1fbb580-2f48-11ea-941b-d5d85c6902ea.png)
 * #### Login Security Configuration     
-     ![image](https://user-images.githubusercontent.com/48934537/71660794-813c3000-2d8f-11ea-9884-dc5cd44b8443.png)
+     ![image](https://user-images.githubusercontent.com/48934537/71766983-a5437100-2f49-11ea-85bf-8bb9004ff671.png)
