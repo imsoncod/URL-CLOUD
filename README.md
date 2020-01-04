@@ -81,6 +81,11 @@
   * #### Hybrid security login
   * #### RSA and Hash Sign Up
   * #### Save important codes and account information separately to Naver N drive
+## Security configuration
+* #### New Account
+     ![image](https://user-images.githubusercontent.com/48934537/71766902-a1fbb580-2f48-11ea-941b-d5d85c6902ea.png)
+* #### Login 
+     ![image](https://user-images.githubusercontent.com/48934537/71766983-a5437100-2f49-11ea-85bf-8bb9004ff671.png)  
 ## Development screen (Omit detailed action screen)
 * #### New Account screen     
      ![image](https://user-images.githubusercontent.com/48934537/71659988-eb9fa100-2d8c-11ea-83a8-c7a00ddedc48.png)
@@ -94,7 +99,3 @@
      ![image](https://user-images.githubusercontent.com/48934537/71660291-e858e500-2d8d-11ea-9ff5-946573ca548e.png)
 * #### URL Ranking screen
      ![image](https://user-images.githubusercontent.com/48934537/71660243-be072780-2d8d-11ea-9303-ccb7d79ff4db.png)
-* #### New Account Security Configuration
-     ![image](https://user-images.githubusercontent.com/48934537/71766902-a1fbb580-2f48-11ea-941b-d5d85c6902ea.png)
-* #### Login Security Configuration     
-     ![image](https://user-images.githubusercontent.com/48934537/71766983-a5437100-2f49-11ea-85bf-8bb9004ff671.png)
