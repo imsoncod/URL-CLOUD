@@ -81,7 +81,7 @@
   * #### Hybrid security login
   * #### RSA and Hash Sign Up
   * #### Save important codes and account information separately to Naver N drive
-## Development screen
+## Development screen (Omit detailed action screen)
 * #### New Account screen     
      ![image](https://user-images.githubusercontent.com/48934537/71659988-eb9fa100-2d8c-11ea-83a8-c7a00ddedc48.png)
 * #### Login screen
