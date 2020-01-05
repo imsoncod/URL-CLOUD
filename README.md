@@ -9,8 +9,12 @@
 * #### Java
 * #### Html
 * #### Css
-* #### Java Script
+* #### JavaScript
 * #### Jsp
+* #### SQL
+## Development tools
+* #### Eclipse
+* #### sqldeveloper
 ## Project configuration
 * #### Java
   * Convert.java
