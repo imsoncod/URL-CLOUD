@@ -101,5 +101,5 @@
      ![image](https://user-images.githubusercontent.com/48934537/71660327-09b9d100-2d8e-11ea-8532-c917cff36e70.png)
 * #### All Search screen
      ![image](https://user-images.githubusercontent.com/48934537/71660291-e858e500-2d8d-11ea-9ff5-946573ca548e.png)
-* #### URL Ranking screen
+* #### URL Regist Ranking screen
      ![image](https://user-images.githubusercontent.com/48934537/71660243-be072780-2d8d-11ea-9303-ccb7d79ff4db.png)
